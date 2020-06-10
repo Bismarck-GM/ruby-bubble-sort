@@ -22,4 +22,4 @@ def bubble_sort_by(array)
   end
 end
 
-bubble_sort_by(%w[hi hello hey]) { |left, right| left <=> right }
+bubble_sort_by(%w[hi banaan appel hello hey]) { |left, right| left <=> right }
