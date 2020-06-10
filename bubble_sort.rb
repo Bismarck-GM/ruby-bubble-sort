@@ -14,12 +14,13 @@
 
 def bubble_sort_by(array)
   iterations = array.length - 1
-  iterations.times do |counter|
-    if yield(array[counter], array[counter + 1]).negative?
-      array[counter], array[counter + 1] = array[counter + 1], array[counter]
-      p array
+  iterations.times do
+    iterations.times do |counter|
+      if yield(array[counter], array[counter + 1]).positive?
+        array[counter], array[counter + 1] = array[counter + 1], array[counter]
+      end
     end
   end
 end
 
-bubble_sort_by(%w[hi hello hey]) { |left, right| left <=> right }
+bubble_sort_by(%w[watermelon hello hey banana kiwi apple]) { |left, right| left.length <=> right.length }
