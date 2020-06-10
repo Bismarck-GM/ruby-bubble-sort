@@ -1,57 +1,29 @@
-# Project Name
+# Advanced Building Blocks - Bubble Sort
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> In this project, we implemented the [bubble sort algorithm](https://en.wikipedia.org/wiki/Bubble_sort). Assignment is focused on the use of yield and passing a block to a method.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby.
+
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Follow this [Live Demo Link](https://repl.it/join/mftfubmu-bismarckgm) to Run the code on Repl.it
 
 ## Authors
 
-👤 **Author1**
+👤 **Michael Threels**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/mikethreels)
+- Twitter: [@twitterhandle](https://twitter.com/MichaelThreels)
+- LinkedIn :[@linkedinhandle](https://www.linkedin.com/in/michael-threels-24101991)
 
-👤 **Author2**
+👤 **Gerónimo Morisot**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Bismarck-GM](https://github.com/Bismarck-GM)
+- Twitter: [@Rewritablee](https://twitter.com/Rewritablee)
+- Linkedin: [geronimomorisot](https://linkedin.com/in/geronimomorisot)
 
 ## 🤝 Contributing
 
@@ -72,3 +44,7 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+## Show your support
+
+Give a ⭐️ if you like this project!
